@@ -1,0 +1,20 @@
+{
+  "name": "test-slack-api",
+  "version": "1.0.0",
+  "description": "test slack api with nodejs and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kisfejes/test-slack-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kisfejes/test-slack-api/issues"
+  },
+  "homepage": "https://github.com/Kisfejes/test-slack-api#readme"
+}
